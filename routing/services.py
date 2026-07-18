@@ -19,7 +19,7 @@ class RouteService:
     )
 
     DIRECTIONS_URL = (
-    "https://api.openrouteservice.org/v2/directions/driving-hgv/geojson"
+    "https://api.openrouteservice.org/v2/directions/driving-car/geojson"
 )
 
     # ----------------------------
